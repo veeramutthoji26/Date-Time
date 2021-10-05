@@ -1,0 +1,19 @@
+#container{
+    background-color: black;
+    width: 500px;
+    text-align: center;
+    color: brown;
+    margin: auto;
+    margin-top: 300px;
+    padding: 10px;
+}
+#myclockdisplay{
+    font-size: 80px;
+    
+
+}
+p{
+    margin: 0;
+    font-size: 40px;
+
+}
